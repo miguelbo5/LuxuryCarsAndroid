@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690702925006",
+    "firebase_url": "https://tareafinalfirebase.firebaseio.com",
+    "project_id": "tareafinalfirebase",
+    "storage_bucket": "tareafinalfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690702925006:android:91a3b2faf87b9c231a249f",
+        "android_client_info": {
+          "package_name": "com.example.tareafinalfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690702925006-mi80vv10ja75ss6fl0r70cdir20g9l34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfVduNW66ZUU5NdeTloRzwGl1q-qLpUFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690702925006-mi80vv10ja75ss6fl0r70cdir20g9l34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
